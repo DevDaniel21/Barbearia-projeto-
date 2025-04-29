@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
             parent.classList.toggle('active');
         })
     })
+<<<<<<< HEAD
 
     // Fechar o dropdown ao clicar fora
     document.addEventListener('click', function (e) {
@@ -40,4 +41,6 @@ document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
         searchOverlay.style.display = 'none';
     }
+=======
+>>>>>>> e1bbbc94eb9f166c8682730d6ef615275626e793
 })

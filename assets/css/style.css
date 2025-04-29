@@ -332,6 +332,7 @@ body {
   display: flex;
 }
 
+<<<<<<< HEAD
 /*overlay busca*/
 .search-overlay {
   position: fixed;
@@ -398,6 +399,8 @@ body {
   }
 }
 
+=======
+>>>>>>> e1bbbc94eb9f166c8682730d6ef615275626e793
 /* BANNER */
 .banner video {
   position: absolute;
